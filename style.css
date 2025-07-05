@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+
+}
+h1{
+    align-items: center;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display:auto;
+    font-weight: 100;
+    color: aliceblue;
+    font-size: larger;
+}
+p{
+    color: aquamarine;
+    font-style: italic;
+    font-size: medium;
+    font-weight: 100;
+}
